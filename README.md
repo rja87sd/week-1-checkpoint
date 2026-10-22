@@ -18,3 +18,5 @@
 | 6 | Added a list of things I like | Add Things I like section with unordered list to index.html | main |
 | 7 | Added my goals | Add My Goals section with ordered list to index.html | main |
 | 8 | Updated README | Update README.md | main |
+| 9 | Added a Sites I Like section to index.html | Add Sites I Like section with unordered list of sites to index.html | main |
+| 10 | Added an image | Add image to index.html | main |
