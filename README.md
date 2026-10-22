@@ -23,3 +23,4 @@ Live site: https://rja87sd.github.io/week-1-checkpoint/
 | 9 | Added a Sites I Like section to index.html | Add Sites I Like section with unordered list of sites to index.html | main |
 | 10 | Added an image and | Add image to index.html and add live site link to README.md | main |
 | 11 | Updated the README with a live site link | Update README.md with live site link | main |
+| 12 | Added style.css with styling for page text and image, and updated README | Add style.css with styling for page text and image, and update README.md | main |
