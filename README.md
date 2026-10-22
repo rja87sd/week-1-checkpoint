@@ -14,3 +14,7 @@
 | 2 | Created my first page | Add first page | main |
 | 3 | Updated index.html | Add h2 heading and paragraph to index | main |
 | 4 | Updated README.md | Update README | main |
+| 5 | Added an About me section | Add About Me section to index.html | main |
+| 6 | Added a list of things I like | Add Things I like section with unordered list to index.html | main |
+| 7 | Added my goals | Add My Goals section with ordered list to index.html | main |
+| 8 | Updated README | Update README.md | main |
