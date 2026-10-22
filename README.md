@@ -1,5 +1,7 @@
 # Week 1 Checkpoint
 
+Live site: https://rja87sd.github.io/week-1-checkpoint/
+
 ## My setup
 - Operating system: Windows 11
 - Editor: VSCode
@@ -19,4 +21,5 @@
 | 7 | Added my goals | Add My Goals section with ordered list to index.html | main |
 | 8 | Updated README | Update README.md | main |
 | 9 | Added a Sites I Like section to index.html | Add Sites I Like section with unordered list of sites to index.html | main |
-| 10 | Added an image | Add image to index.html | main |
+| 10 | Added an image and | Add image to index.html and add live site link to README.md | main |
+| 11 | Updated the README with a live site link | Update README.md with live site link | main |
