@@ -24,3 +24,4 @@ Live site: https://rja87sd.github.io/week-1-checkpoint/
 | 10 | Added an image and | Add image to index.html and add live site link to README.md | main |
 | 11 | Updated the README with a live site link | Update README.md with live site link | main |
 | 12 | Added style.css with styling for page text and image, and updated README | Add style.css with styling for page text and image, and update README.md | main |
+| 13 | Added Title tag to image at bottom of page, added some extra styling for image, and updated README | Add Title tag to page img, add extra styling to img, and update README.md | main |
